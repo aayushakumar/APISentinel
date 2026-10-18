@@ -3,11 +3,10 @@
 > **Version:** 0.1.0  
 > **Status:** Implementation-ready draft  
 > **Date:** 2026-10-17  
-> **Owner:** Solo developer  
+> **Owner:** Aayush K  
 > **Product type:** Local-first developer tool / API contract and authorization testing  
 > **Target:** Functional, demonstrable MVP by October 31, 2026  
 > **Primary development environment:** Windows + Cursor + REA MCP  
-> **Financial constraint:** $0 additional out-of-pocket spend; budget up to $125 in already-available Cursor credits, subject to account billing controls
 
 ---
 
